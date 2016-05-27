@@ -3,7 +3,7 @@
 Package.describe({
   name: 'hhsiao:tabular',
   summary: 'Datatables for large or small datasets in Meteor (hhsiao)',
-  version: '1.6.2',
+  version: '1.6.3',
   git: 'https://github.com/hhsiao/meteor-tabular.git'
 });
 
